@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Warren Calculator App</string>
+    <string name="clearText">C</string>
+    <string name="seven_text">7</string>
+    <string name="addition_text">+</string>
+    <string name="subtraction_text">-</string>
+    <string name="multiplication_text">x</string>
+    <string name="decimal_text">.</string>
+    <string name="three_text">3</string>
+    <string name="six_text">6</string>
+    <string name="nine_text">9</string>
+    <string name="two_text">2</string>
+    <string name="five_text">5</string>
+    <string name="eight_text">8</string>
+    <string name="zero_text">0</string>
+    <string name="one_text">1</string>
+    <string name="four_text">4</string>
+    <string name="equals_text">=</string>
+    <string name="division_text">÷</string>
+    <string name="rightBracket_text">)</string>
+    <string name="leftBracket_text">(</string>
+    <string name="backSpace">Delete</string>
+    <string name="displayHint">Enter a Value</string>
+    
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogText">ln</string>
+    <string name="logText">log</string>
+    <string name="squareRootText">√</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="isPrimeText">prime</string>
+
+</resources>
